@@ -1,0 +1,2 @@
+C:\Users\Arslan\source\repos\Lab7_oop\Debug\Lab7_oop.exe
+C:\Users\Arslan\source\repos\Lab7_oop\Debug\Lab7_oop.pdb
